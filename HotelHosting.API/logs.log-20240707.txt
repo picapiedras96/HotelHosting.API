@@ -1,0 +1,5 @@
+2024-07-07 20:43:54.923 -04:00 [INF] Now listening on: https://localhost:7068
+2024-07-07 20:43:54.977 -04:00 [INF] Now listening on: http://localhost:5248
+2024-07-07 20:43:54.981 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-07 20:43:54.983 -04:00 [INF] Hosting environment: Development
+2024-07-07 20:43:54.986 -04:00 [INF] Content root path: C:\Users\cisne\source\repos\HotelHosting.API\HotelHosting.API
